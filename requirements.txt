@@ -1,0 +1,4 @@
+requests>=2.31.0
+dnspython>=2.6.0
+tldextract>=5.1.0
+customtkinter>=5.2.0
